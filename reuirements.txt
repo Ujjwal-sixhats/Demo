@@ -1,0 +1,14 @@
+numpy
+opencv-python
+matplotlib
+pillow
+rembg
+onnxruntime
+glob2
+google-generativeai
+python-dotenv
+transformers
+torch
+pillow
+requests
+open_clip_to

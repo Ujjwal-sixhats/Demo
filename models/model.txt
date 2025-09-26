@@ -1,0 +1,1 @@
+Download the model from https://huggingface.co/briaai/RMBG-2.0/tree/main/onnx
